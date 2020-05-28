@@ -11,7 +11,7 @@
 #    target_link_libraries(MY_TARGET_NAME ${Tesseract_LIBRARIES})
 #
 #    This file will define the following variables:
-#      - Tesseract_LIBRARIES             : The list of all imported targets for OpenCV modules.
+#      - Tesseract_LIBRARIES             : The list of all imported targets for Tesseract.
 #      - Tesseract_INCLUDE_DIRS          : The Tesseract include directories.
 #      - Tesseract_VERSION               : The version of this Tesseract build: "@VERSION_PLAIN@"
 #      - Tesseract_VERSION_MAJOR         : Major version part of Tesseract_VERSION: "@VERSION_MAJOR@"
